@@ -66,7 +66,7 @@ Enter your choice:
 Enter your choice: 1
 Enter Name: John
 Enter Phone: 9876543210
-Contact Added Successfully!.
+Contact Added Successfully!
 
 
 ---
