@@ -63,8 +63,10 @@ gcc main.c file.c contact.c -o a.out
 6. Exit
 Enter your choice: 
 ```
-
-*(Replace with your actual menu/output screenshot or text once finalized.)*
+Enter your choice: 1
+Enter Name: John
+Enter Phone: 9876543210
+Contact Added Successfully!
 
 ---
 
